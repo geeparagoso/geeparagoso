@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Screenshot](https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif)
 
-```math \ce{$&#x5C;begin{array}{|c|c|c|}
-
-\hline\text{Header 1} & \text{Header 2} & \text{Header 3} \\\hlineCell 1 & Cell 2 & Cell 3 \\\hlineCell 4 & Cell 5 & Cell 6 \\\hline\end{array}$}
+```math \ce{$&#x5C;begin{array}{|c|c|c|}\hline\text{Header 1} & \text{Header 2} & \text{Header 3} \\\hlineCell 1 & Cell 2 & Cell 3 \\\hlineCell 4 & Cell 5 & Cell 6 \\\hline\end{array}$}
 🔄 Loading...
 \test
 sample text here 😊
