@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Screenshot](https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif)
 
-
+```math \ce{$&#x5C;
 % Define a command to set background image
 \newcommand\BackgroundPic{
     \put(0,0){
@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
         }
     }
 }
+{x0000}$}
 - 👋 Hi, I’m @geeparagoso
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
