@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 \test
 sample text here 😊 \n
 \( a^2 + b^2 = c^2 \)
-```math\documentclass{article}
+\documentclass{article}
 \usepackage{pgfplots} % Load pgfplots package
 \begin{axis}[
     xlabel=$x$,
