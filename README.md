@@ -31,3 +31,4 @@ $ E = mc^2 $
 
 
 \includegraphics[width=0.5\textwidth]{example-image}
+\( \alpha, \beta, \gamma, \theta, \pi \)
