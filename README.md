@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Screenshot](https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif)
 
-```math \ce{$&#x5C;unicode[background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/geeparagoso/geeparagoso/main/images/cats-computer.gif?raw=true');]{x0000}$}
+```math \ce{$&#x5C;unicode[background-size: cover; width: 130vw; opacity: 0.5; background-color: blue;]{x0000}$}
 
 - 👋 Hi, I’m @geeparagoso
 - 👀 I’m interested in ...
