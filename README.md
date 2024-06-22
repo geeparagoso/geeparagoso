@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 🔄 Loading...
 \test
 sample text here 😊
+\( a^2 + b^2 = c^2 \)
