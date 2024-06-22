@@ -15,6 +15,12 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Screenshot](https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif)
 
+### My Equation
+
+Here is the famous equation by Einstein: \( E = mc^2 \).
+
+![Equation](https://render.githubusercontent.com/render/math?math=E%20%3D%20mc%5E2)
+
 ```math \ce{$&#x5C;unicode[font-family: 'Pacifico', cursive; font-size: 20px; color: #ff6347;] Hello, Pacifico font}
 🔄 Loading...
 \test
