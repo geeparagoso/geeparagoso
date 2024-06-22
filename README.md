@@ -21,3 +21,11 @@ You can click the Preview link to take a look at your changes.
 \test
 sample text here 😊 \n
 \( a^2 + b^2 = c^2 \)
+\begin{axis}[
+    xlabel=$x$,
+    ylabel={$f(x) = x^2$},
+    domain=-2:2,
+    samples=100,
+    axis lines=center,
+    grid=both
+]
