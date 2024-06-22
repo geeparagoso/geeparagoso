@@ -31,3 +31,7 @@ $ E = mc^2 $
 \( \alpha, \beta, \gamma, \theta, \pi \)
 
 \( \begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix} \)
+
+\( \therefore \, P(A) = 0.5 \), \( \because \, Q \)
+
+\( x > 3 \), \( y \leq 10 \)
