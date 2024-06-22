@@ -20,3 +20,4 @@ You can click the Preview link to take a look at your changes.
 \test
 sample text here 😊 \n
 \( a^2 + b^2 = c^2 \)
+\draw[->] (-1,0) -- (3,0) node[right] {$x$};
