@@ -15,8 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Screenshot](https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif)
 
-```math \documentclass{article}\usepackage{graphicx}\usepackage{tikz}\usepackage{amsmath} \ce{$&#x5C;unicode[goombafont; color:green; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background-image: url('https://github.com/geeparagoso/geeparagoso/blob/main/images/cats-computer.gif');]{x0000}$}
-\begin{document}\newcommand{\backgroundimage}[1]{\begin{tikzpicture}[remember picture, overlay]\node[inner sep=0pt, outer sep=0pt, opacity=0.5] at (current page.center) {\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{#1}};\end{tikzpicture}}\[\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url(‘https://mybackground.png?raw=true');]{x0000}$}\]
-\backgroundimage{https://raw.githubusercontent.com/geeparagoso/geeparagoso/main/images/cats-computer.gif}
-9999999999.99% [████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████-----] ☠️
+```math \ce{$&#x5C;unicode[background-color: #4CAF50; color: white; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); padding: 10px; font-family: 'Arial', sans-serif; font-size: 14px; pointer-events: none;] Hover me for a tip}
 
