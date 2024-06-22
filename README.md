@@ -29,4 +29,4 @@ sample text here 😊 \n
 $ E = mc^2 $
 \int_0^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
 
-Name & Age \\
+Name  Age \\
