@@ -32,6 +32,36 @@ injectStyle({
     opacity: 0.5,
     background: 'url(‘https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true')'
 });
+<title>Background Image Example</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://raw.githubusercontent.com/geeparagoso/geeparagoso/main/images/cats-computer.gif');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.5;
+  }
+
+  .content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+  }
+</style>
+</head>
+<body>
+  <div class="content">
+    <p>Your content goes here.</p>
+  </div>
+</body>
+</html>
 
 - 👋 Hi, I’m @geeparagoso
 - 👀 I’m interested in ...
