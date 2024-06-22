@@ -28,7 +28,4 @@ sample text here 😊 \n
 \caption{Example image}
 $ E = mc^2 $
 \int_0^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
-
-
-\includegraphics[width=0.5\textwidth]{example-image}
 \( \alpha, \beta, \gamma, \theta, \pi \)
