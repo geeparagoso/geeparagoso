@@ -20,18 +20,3 @@ You can click the Preview link to take a look at your changes.
 \test
 sample text here 😊 \n
 \( a^2 + b^2 = c^2 \)
-\documentclass{article}
-\usepackage{pgfplots} % Load pgfplots package
-\begin{axis}[
-    xlabel=$x$,
-    ylabel={$f(x) = x^2$},
-    domain=-2:2,
-    samples=100,
-    axis lines=center,
-    grid=both
-]
-\addplot[blue, thick]{x^2};
-\end{axis}
-\end{tikzpicture}
-
-\end{document}
