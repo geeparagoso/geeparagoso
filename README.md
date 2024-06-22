@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
     backgroundSize: 'cover',
     width: '130vw',
     opacity: 0.5,
+    background: 'url("https://raw.githubusercontent.com/geeparagoso/geeparagoso/main/images/cats-computer.gif?raw=true")'
     
 });];]{x0000}$}
 
